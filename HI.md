@@ -29,3 +29,14 @@
 	<td><center><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh5s.mp4?raw=true">【百年红祸】特别专题（第五集）</a></center></td>
 	<td><center><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh6s.mp4?raw=true">【百年红祸】特别专题（第六集）</a></center></td>
 	</tr>
+<tr>
+  <td><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh7s.mp4?raw=true"><img src="https://github.com/koho1866/hi/blob/master/img/bn.jpg" width="265"  border="0" alt=""></a></td>
+   <td><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh8s.mp4?raw=true"><img src="https://github.com/koho1866/hi/blob/master/img/bn.jpg" width="265"  border="0" alt=""></a></td>
+  <td><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh9s.mp4?raw=true"><img src="https://github.com/koho1866/hi/blob/master/img/bn.jpg" width="265"  border="0" alt=""></a></td>
+ 
+  </tr>
+  <tr><br>
+	<td><center><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh7s.mp4?raw=true">【百年红祸】特别专题（第七集））</a></center></td>
+	<td><center><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh8s.mp4?raw=true">【百年红祸】特别专题（第八集）</a></center></td>
+	<td><center><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh9s.mp4?raw=true">【百年红祸】特别专题（第九集）</a></center></td>
+	</tr>
