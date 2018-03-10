@@ -77,5 +77,5 @@
    
    </tr>
   <tr><br>
-	<td><center><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh19s.mp4?raw=true">【百年红祸】特别专题（第十六集））</a></center></td>
-	<td><center><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh20s.mp4?raw=true">【百年红祸】特别专题（第十七集）</a></center></td>
+	<td><center><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh19s.mp4?raw=true">【百年红祸】特别专题（第十九集））</a></center></td>
+	<td><center><a href="https://github.com/koho1866/hi/blob/master/bnhh/bnhh20s.mp4?raw=true">【百年红祸】特别专题（第二十集）</a></center></td>
