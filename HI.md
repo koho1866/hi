@@ -4,7 +4,7 @@
 	<td colspan=3>
 		
 <img src="https://github.com/koho1866/hi/blob/master/img/2018-03-05_1.jpg" width="875">
-<div align="center"><h1>【百年紅禍】特別專題 </h1></div>
+<div align="center"><h1>【百年红祸】特别专题 </h1></div>
 
 
 <tr>
